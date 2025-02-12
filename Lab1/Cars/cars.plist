@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>McLaren</key>
+	<array>
+		<string>P1</string>
+		<string>P1 GTR</string>
+		<string>F1</string>
+		<string>675LT</string>
+		<string>MP4-12C</string>
+	</array>
+	<key>Ferrari</key>
+	<array>
+		<string>LaFerrari</string>
+		<string>488 GTB</string>
+		<string>458 Italia</string>
+		<string>F40</string>
+		<string>Enzo</string>
+	</array>
+	<key>Porsche</key>
+	<array>
+		<string>918 Spyder</string>
+		<string>911 GT3 RS</string>
+		<string>Carrera GT</string>
+		<string>Cayman GT4</string>
+		<string>991</string>
+	</array>
+	<key>Lamborghini</key>
+	<array>
+		<string>Veneno</string>
+		<string>Aventador SV</string>
+		<string>Huracan</string>
+		<string>Gallardo</string>
+		<string>Diablo</string>
+	</array>
+	<key>Koenigsegg</key>
+	<array>
+		<string>Agera</string>
+		<string>Agera RS</string>
+		<string>Regera</string>
+		<string>One:1</string>
+		<string>CCX</string>
+	</array>
+</dict>
+</plist>

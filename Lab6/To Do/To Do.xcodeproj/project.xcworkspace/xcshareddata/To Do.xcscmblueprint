@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2AA5F298356D69EEEB33D3652B75C065CEBFF4AA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2AA5F298356D69EEEB33D3652B75C065CEBFF4AA" : 0,
+    "7C4A8BC33592E211F494151C018B4E83DC493EB5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "510BD234-9268-40B7-9F1F-B5CA12BF2C15",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2AA5F298356D69EEEB33D3652B75C065CEBFF4AA" : "ATLS4519\/",
+    "7C4A8BC33592E211F494151C018B4E83DC493EB5" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "To Do",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Lab6\/To Do\/To Do.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Micro1435\/ATLS4519.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2AA5F298356D69EEEB33D3652B75C065CEBFF4AA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Micro1435\/Roommate-Algorithm.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7C4A8BC33592E211F494151C018B4E83DC493EB5"
+    }
+  ]
+}

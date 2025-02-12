@@ -1,0 +1,304 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4C7FB1641C8E31E500AF4DD3 /* MinuteBoulderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7FB1631C8E31E500AF4DD3 /* MinuteBoulderViewController.swift */; };
+		4C7FB1661C8E3E1E00AF4DD3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7FB1651C8E3E1E00AF4DD3 /* ViewController.swift */; };
+		4CDC0F431CBD6C9A006CC1D7 /* BurleyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CDC0F421CBD6C9A006CC1D7 /* BurleyViewController.swift */; };
+		4CE748B91C880C4000AA3DA1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE748B81C880C4000AA3DA1 /* AppDelegate.swift */; };
+		4CE748BE1C880C4000AA3DA1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CE748BC1C880C4000AA3DA1 /* Main.storyboard */; };
+		4CE748C01C880C4000AA3DA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4CE748BF1C880C4000AA3DA1 /* Assets.xcassets */; };
+		4CE748C31C880C4000AA3DA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CE748C11C880C4000AA3DA1 /* LaunchScreen.storyboard */; };
+		4CE748CB1C880F4800AA3DA1 /* HangBoardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE748CA1C880F4800AA3DA1 /* HangBoardViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4C7FB1631C8E31E500AF4DD3 /* MinuteBoulderViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MinuteBoulderViewController.swift; sourceTree = "<group>"; };
+		4C7FB1651C8E3E1E00AF4DD3 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4CDC0F421CBD6C9A006CC1D7 /* BurleyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BurleyViewController.swift; sourceTree = "<group>"; };
+		4CE748B51C880C4000AA3DA1 /* IntervalTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IntervalTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4CE748B81C880C4000AA3DA1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4CE748BD1C880C4000AA3DA1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4CE748BF1C880C4000AA3DA1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4CE748C21C880C4000AA3DA1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4CE748C41C880C4000AA3DA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4CE748CA1C880F4800AA3DA1 /* HangBoardViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HangBoardViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4CE748B21C880C4000AA3DA1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4CE748AC1C880C4000AA3DA1 = {
+			isa = PBXGroup;
+			children = (
+				4CE748B71C880C4000AA3DA1 /* IntervalTimer */,
+				4CE748B61C880C4000AA3DA1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4CE748B61C880C4000AA3DA1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4CE748B51C880C4000AA3DA1 /* IntervalTimer.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4CE748B71C880C4000AA3DA1 /* IntervalTimer */ = {
+			isa = PBXGroup;
+			children = (
+				4CE748B81C880C4000AA3DA1 /* AppDelegate.swift */,
+				4C7FB1651C8E3E1E00AF4DD3 /* ViewController.swift */,
+				4CE748CA1C880F4800AA3DA1 /* HangBoardViewController.swift */,
+				4C7FB1631C8E31E500AF4DD3 /* MinuteBoulderViewController.swift */,
+				4CDC0F421CBD6C9A006CC1D7 /* BurleyViewController.swift */,
+				4CE748BC1C880C4000AA3DA1 /* Main.storyboard */,
+				4CE748BF1C880C4000AA3DA1 /* Assets.xcassets */,
+				4CE748C11C880C4000AA3DA1 /* LaunchScreen.storyboard */,
+				4CE748C41C880C4000AA3DA1 /* Info.plist */,
+			);
+			path = IntervalTimer;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4CE748B41C880C4000AA3DA1 /* IntervalTimer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4CE748C71C880C4000AA3DA1 /* Build configuration list for PBXNativeTarget "IntervalTimer" */;
+			buildPhases = (
+				4CE748B11C880C4000AA3DA1 /* Sources */,
+				4CE748B21C880C4000AA3DA1 /* Frameworks */,
+				4CE748B31C880C4000AA3DA1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = IntervalTimer;
+			productName = IntervalTimer;
+			productReference = 4CE748B51C880C4000AA3DA1 /* IntervalTimer.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4CE748AD1C880C4000AA3DA1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "Michael Montella";
+				TargetAttributes = {
+					4CE748B41C880C4000AA3DA1 = {
+						CreatedOnToolsVersion = 7.2.1;
+					};
+				};
+			};
+			buildConfigurationList = 4CE748B01C880C4000AA3DA1 /* Build configuration list for PBXProject "IntervalTimer" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4CE748AC1C880C4000AA3DA1;
+			productRefGroup = 4CE748B61C880C4000AA3DA1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4CE748B41C880C4000AA3DA1 /* IntervalTimer */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4CE748B31C880C4000AA3DA1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4CE748C31C880C4000AA3DA1 /* LaunchScreen.storyboard in Resources */,
+				4CE748C01C880C4000AA3DA1 /* Assets.xcassets in Resources */,
+				4CE748BE1C880C4000AA3DA1 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4CE748B11C880C4000AA3DA1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4CE748CB1C880F4800AA3DA1 /* HangBoardViewController.swift in Sources */,
+				4C7FB1641C8E31E500AF4DD3 /* MinuteBoulderViewController.swift in Sources */,
+				4C7FB1661C8E3E1E00AF4DD3 /* ViewController.swift in Sources */,
+				4CDC0F431CBD6C9A006CC1D7 /* BurleyViewController.swift in Sources */,
+				4CE748B91C880C4000AA3DA1 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		4CE748BC1C880C4000AA3DA1 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4CE748BD1C880C4000AA3DA1 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4CE748C11C880C4000AA3DA1 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4CE748C21C880C4000AA3DA1 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4CE748C51C880C4000AA3DA1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4CE748C61C880C4000AA3DA1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4CE748C81C880C4000AA3DA1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = IntervalTimer/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.MichaelMontella.IntervalTimer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		4CE748C91C880C4000AA3DA1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = IntervalTimer/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.MichaelMontella.IntervalTimer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4CE748B01C880C4000AA3DA1 /* Build configuration list for PBXProject "IntervalTimer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4CE748C51C880C4000AA3DA1 /* Debug */,
+				4CE748C61C880C4000AA3DA1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4CE748C71C880C4000AA3DA1 /* Build configuration list for PBXNativeTarget "IntervalTimer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4CE748C81C880C4000AA3DA1 /* Debug */,
+				4CE748C91C880C4000AA3DA1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4CE748AD1C880C4000AA3DA1 /* Project object */;
+}

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2AA5F298356D69EEEB33D3652B75C065CEBFF4AA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2AA5F298356D69EEEB33D3652B75C065CEBFF4AA" : 0,
+    "7C4A8BC33592E211F494151C018B4E83DC493EB5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "86481ED6-8B94-4D8C-8F8D-8CE3F0B0784D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2AA5F298356D69EEEB33D3652B75C065CEBFF4AA" : "ATLS4519\/",
+    "7C4A8BC33592E211F494151C018B4E83DC493EB5" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ScrabbleQ",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Lab2\/ScrabbleQ\/ScrabbleQ.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Micro1435\/ATLS4519.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2AA5F298356D69EEEB33D3652B75C065CEBFF4AA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Micro1435\/Roommate-Algorithm.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7C4A8BC33592E211F494151C018B4E83DC493EB5"
+    }
+  ]
+}
